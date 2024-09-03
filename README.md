@@ -4,7 +4,7 @@
 
 📧 Email: [warpaeff@mail.ru]  
 🚀 Telegram: [https://t.me/Evarapaev]  
-🐙 CV: [https://docs.google.com/document/d/1xpMYP5YNY1WTZYOsdMSvWwRaTFziroA6/edit?usp=sharing&ouid=101631323144931871284&rtpof=true&sd=true] 
+🐙 CV: [link to drive](https://docs.google.com/document/d/1xpMYP5YNY1WTZYOsdMSvWwRaTFziroA6/edit?usp=sharing&ouid=101631323144931871284&rtpof=true&sd=true) 
   
 
 I'm Erik, a Data Scientist based in Moscow. My expertise spans across Data Analysis, Product Analytics, ML, NLP, and CV. I am well-versed in SQL and R, with substantial experience in Docker and Python libraries. I thrive in competition environments, consistently delivering high-quality results in hackathons. Additionally, I am passionate about developing and scaling projects within a team, driving collaboration to achieve impactful outcomes.
