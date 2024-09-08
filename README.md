@@ -1,4 +1,3 @@
-# Varapaevs_Erik_readme
 # Erik ✨
 ## Data Scientist 💻
 
